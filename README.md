@@ -1,16 +1,14 @@
-# Getting Started with GitHub Copilot
+# Zomato Food Delivery Data Analytics case study 
+## PROJECT OVERVIEW
+This project focuses on extracting, cleaning, visualizing food delivery data from Zomato. The analysis aims to help a hpothetical cloud kitchen business identify profitable locations and optimal pricing strategies. 
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## TECH STACK AND SKILLS 
+Python (Pandas & Numpy): Managed data processing , handled null values , and reformatted categorical data.
+SQL ( SQLite ) : E xecuted multi-level aggregation qureies to identify high performing geogriphical clusters.
+Data Visualization : Built an interactive analytical dashboard detailing critical business metrics.
 
-Hey umachandola249!
+## KEY BUSINESS INSIGHTS 
+Pricing Trends : Data indicates that restaurants with online ordering options maintain an average cost  for two that is 15% lower then dine- in location.
+Market Expansion : Identified top 3 high-density clusters that maintain consumer rating above 4.2 stars, marking them as prime targets for cloud kitchen placement. 
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/umachandola249/skills-getting-started-with-github-copilot/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+##
